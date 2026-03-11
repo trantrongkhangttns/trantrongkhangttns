@@ -2,9 +2,9 @@
 
 ### 👨‍💻 About Me
 - 🎓 **Senior Student** specializing in **Artificial Intelligence & Machine Learning**.
-- 🚀 Currently on an intensive journey to master Data Science and Model Engineering.
-- 💡 Actively seeking an **AI/ML Internship**.
-- 🌍 **English Proficiency:** TOEIC 840 (Ready for international documentation and collaboration).
+- Currently on an intensive journey to master Data Science and Model Engineering.
+- Actively seeking an **AI/ML Internship**.
+- **English Proficiency:** TOEIC 840 (Ready for international documentation and collaboration).
 
 ---
 
@@ -18,10 +18,10 @@
 ---
 
 ### 📈 Current Learning & Projects
-- 🧠 **ML Roadmap:** Deep-diving into Supervised Learning and preparing for Neural Networks (Deep Learning).
-- 📊 **Regression Project:** Currently developing predictive models (Car Price/House Price Prediction) with a focus on **Data Imputation** and **Outlier Handling**.
-- 🍋 **Innovation Project:** Operating Model & Vision developer for an eco-friendly product (Lemon-based dish soap).
-- 🎓 **Thesis:** Researching and applying ML algorithms to solve real-world optimization problems.
+- **ML Roadmap:** Deep-diving into Supervised Learning and preparing for Neural Networks (Deep Learning).
+- **Regression Project:** Currently developing predictive models (Car Price/House Price Prediction) with a focus on **Data Imputation** and **Outlier Handling**.
+- **Innovation Project:** Operating Model & Vision developer for an eco-friendly product (Lemon-based dish soap).
+- **Thesis:** Researching and applying ML algorithms to solve real-world optimization problems.
 
 ---
 
