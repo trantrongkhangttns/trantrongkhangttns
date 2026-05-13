@@ -18,7 +18,7 @@
 ---
 
 ### Let's Connect:
-- **LinkedIn:** Don't have it at the moment
+- **LinkedIn:** https://www.linkedin.com/in/trần-trọng-khang-6329693b6/
 - **Email:** khangtranttns@gmailgmail.com
 
 <p align="center">
